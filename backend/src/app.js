@@ -46,8 +46,8 @@ module.exports = app;
     * 
     * Query Builder: table('users').select('*').where() 
     * 
-    * Com o query builder, podemos fazer uma busca usando o javascript. E podemos mudar para qualquer banco SQL, não iremos 
-    * mudar nada.
+    * Com o query builder, podemos fazer uma busca usando o javascript. E podemos mudar para qualquer banco SQL, 
+    * não iremos mudar nada.
     * 
     * Para o projeto iremos usar como o nosso query builder: Knex.js
     */
